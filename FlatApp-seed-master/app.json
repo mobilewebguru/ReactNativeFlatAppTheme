@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "sdkVersion": "15.0.0",
+    "icon": "./images/icon.png",
+    "loading": {
+      "hideExponentText": true,
+      "icon": "./images/loading.png",
+      "backgroundImage": "./images/launchImages/splashscreen.png"
+    },
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+   "androidStatusBarColor": "#01cca1",
+     "androidStatusBar": {
+     "barStyle": "dark-content",
+     "backgroundColor": "#01cca1"
+    }
+  }
+}

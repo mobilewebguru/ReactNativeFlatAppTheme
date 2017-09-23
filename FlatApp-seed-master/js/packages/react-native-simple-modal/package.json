@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "name": "react-native-simple-modal",
+        "raw": "react-native-simple-modal",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/sahusoft/Sites/projects/NativeStarterPro-NativeBase-v4"
+    ]
+  ],
+  "_from": "react-native-simple-modal@latest",
+  "_id": "react-native-simple-modal@3.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-simple-modal",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-simple-modal-3.0.4.tgz_1464466562670_0.31811571889556944"
+  },
+  "_npmUser": {
+    "email": "max.huttunen@gmail.com",
+    "name": "bodyflex"
+  },
+  "_npmVersion": "3.8.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-simple-modal",
+    "raw": "react-native-simple-modal",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-simple-modal/-/react-native-simple-modal-3.0.4.tgz",
+  "_shasum": "07a2bfc679f5ac4a4a5111eeb9efadb8f5af22b3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-simple-modal",
+  "_where": "/Users/sahusoft/Sites/projects/NativeStarterPro-NativeBase-v4",
+  "author": {
+    "name": "bodyflex"
+  },
+  "bugs": {
+    "url": "https://github.com/bodyflex/react-native-simple-modal/issues"
+  },
+  "dependencies": {},
+  "description": "A simple JavaScript modal component for React Native.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "07a2bfc679f5ac4a4a5111eeb9efadb8f5af22b3",
+    "tarball": "https://registry.npmjs.org/react-native-simple-modal/-/react-native-simple-modal-3.0.4.tgz"
+  },
+  "gitHead": "2f1c155c443eca489977aa023194cf010f72f6f7",
+  "homepage": "https://github.com/bodyflex/react-native-simple-modal#readme",
+  "keywords": [
+    "modal",
+    "react-native",
+    "dialog",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "max.huttunen@gmail.com",
+      "name": "bodyflex"
+    }
+  ],
+  "name": "react-native-simple-modal",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.17.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodyflex/react-native-simple-modal.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.4"
+}
