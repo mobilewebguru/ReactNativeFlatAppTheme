@@ -101,6 +101,9 @@ export default {
   arrowForwardIconContainer: {
     paddingTop: 5
   },
+  mainBook: {
+    flex: 1
+  },
   commentName: {
     fontSize: deviceWidth < 330 ? 15 : 17,
     paddingLeft: 10,
